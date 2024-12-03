@@ -1,0 +1,20 @@
+/* styles.css */
+.services-categories {
+  width: calc(100% - 30px);
+}
+
+.category img {
+  transition: transform 0.3s ease;
+}
+
+.category:hover img {
+  transform: scale(1.1);
+}
+
+.photographer-card img {
+  transition: transform 0.3s ease;
+}
+
+.photographer-card:hover img {
+  transform: scale(1.05);
+}

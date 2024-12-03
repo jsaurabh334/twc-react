@@ -1,0 +1,8 @@
+.bg-gradient{
+    background: linear-gradient(97.99deg, #69243C 1.1%, #FFE998 100%);
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,38 @@
+.cta-container {
+    width: calc(100%-20px);
+    margin-top: 40px;
+    background-color: #4f1c34; /* Dark maroon color */
+    color: #f6e69e; /* Light golden text color */
+   height: 200px;
+    text-align: center;
+    padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    border-radius: 8px;
+  }
+  
+  .cta-quote {
+    min-width: 300px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    max-width: 60%;
+    line-height: 1.6;
+  }
+  
+  .cta-button {
+    background-color: goldenrod; /* Light golden background */
+    color: #4f1c34; /* Dark maroon text */
+    border: none;
+    padding: 15px 30px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    background-color: #dbc783; /* Darker shade of golden for hover */
+  }
+  
